@@ -19,7 +19,7 @@
 
 3. **Push to GitHub**
    ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/ec2-sleepsaver.git
+   git remote add origin https://github.com/Niharika07-B/ec2-sleepsaver.git
    git branch -M main
    git push -u origin main
    ```
@@ -32,7 +32,7 @@
    - The workflow will automatically deploy on every push to main
 
 5. **Access Your Site**
-   - Your site will be live at: `https://YOUR_USERNAME.github.io/ec2-sleepsaver/`
+   - Your site will be live at: `https://niharika07-b.github.io/ec2-sleepsaver/`
    - Wait 2-3 minutes for the first deployment
 
 ### Option 2: Manual Deployment with gh-pages
@@ -55,7 +55,7 @@
    - Save
 
 4. **Access Your Site**
-   - Live at: `https://YOUR_USERNAME.github.io/ec2-sleepsaver/`
+   - Live at: `https://niharika07-b.github.io/ec2-sleepsaver/`
 
 ## Important Notes
 
@@ -126,6 +126,4 @@ The GitHub Action will automatically rebuild and deploy.
 ---
 
 **Your EC2 SleepSaver will be live at:**
-`https://YOUR_USERNAME.github.io/ec2-sleepsaver/`
-
-Replace `YOUR_USERNAME` with your actual GitHub username.
+`https://niharika07-b.github.io/ec2-sleepsaver/`

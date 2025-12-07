@@ -56,6 +56,10 @@ npm run build
 - Tag-based exclusions
 - Dry-run mode for testing
 
+## 🌐 Live Demo
+
+Visit the live application at: https://niharika07-b.github.io/ec2-sleepsaver/
+
 ## 📝 License
 
 MIT
