@@ -457,3 +457,6 @@ Let's connect and collaborate as Diving in ocean of Knowledge brings nature and 
 If you enjoyed this project, please **⭐ star the repo** — it motivates me to build more!
 
 ---
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF7F32&height=160&section=header&animation=fadeIn"/>
+</h1>
