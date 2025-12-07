@@ -22,17 +22,12 @@ jobs:
         with:
           node-version: '18'
           cache: 'npm'
-          cache-dependency-path: ec2-sleepsaver/package-lock.json
 
       - name: Install dependencies
-        run: |
-          cd ec2-sleepsaver
-          npm install
+        run: npm install
 
       - name: Build
-        run: |
-          cd ec2-sleepsaver
-          npm run build
+        run: npm run build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -40,7 +35,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ec2-sleepsaver/dist
+          path: ./dist
 
   deploy:
     environment:
