@@ -171,6 +171,7 @@ User sees:
 
 - Manual stop/start buttons
 ```
+
 ---
 # 🚀 Installation
 
@@ -196,6 +197,8 @@ npm run dev
 npm run build
 
 ```
+---
+
 # 🛠️ Tech Stack
 
 ### <h3> 🖥️ Frontend </h3>
