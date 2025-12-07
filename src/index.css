@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white dark:bg-ec2-darkGray text-gray-900 dark:text-gray-100 transition-colors;
+  }
+}
