@@ -426,7 +426,7 @@ This project is licensed under the ISC License.
 ---
 # 🤝 Credits
 
-Made with 💙 by Niharika  🚀 Special thanks to contributors and early testers!!!!
+Made with 💙 by KIRO AI 💜  🚀 Special thanks to contributors and early testers!!!!
 
 ---
 # 🧑‍💻 Connect With Me  
