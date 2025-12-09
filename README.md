@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=FF7F32&height=160&section=header&text=EC2%20SleepSaver&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 </h1>
 
-              "I hate forgetting to stop EC2 instances and losing cloud credits… so I built EC2 SleepSaver."
+            "I hate forgetting to stop EC2 instances and losing cloud credits… so I built EC2 SleepSaver."
 <h3 align="center" style="color:#FFA559; font-size: 18px;">
 🖥️ Auto-Stop Idle EC2 Instances || 🚦 Reduce AWS Costs Automatically || ⚡ Serverless Automation
 </h3>
