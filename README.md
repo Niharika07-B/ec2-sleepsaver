@@ -441,7 +441,7 @@ Let's connect and collaborate as Diving in ocean of Knowledge brings nature and 
   <a href="https://www.linkedin.com/in/bandaru-niharika/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
-  <a href="https://instagram.com/17_n.i.h.a.r.i.k.a_07">
+  <a href="https://www.instagram.com/___.nihaaaaaa.___/?igsh=MTh2MWV3dDg1NmNicw%3D%3D#">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a> 
   <a href="https://medium.com/@niharika.bandaru5002">
