@@ -429,6 +429,10 @@ This project is licensed under the ISC License.
 
 Made with 💙 by KIRO AI 💜  🚀 Special thanks to contributors and early testers!!!!
 
+![kiiii](https://github.com/user-attachments/assets/639e753d-6922-44ea-b2ca-aad1e34e2753)
+
+![keee1](https://github.com/user-attachments/assets/224a465c-a5d2-4434-8e84-bf8753f9b7c2)
+
 ---
 # 🧑‍💻 Connect With Me  
 
